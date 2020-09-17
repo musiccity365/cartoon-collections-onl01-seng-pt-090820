@@ -9,13 +9,14 @@ end
 def summon_captain_planet(veggies)# code an argument here
   # Your code here
   # planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
-  veggies.collect do |call| 
+  veggies.collect do |call|
     call.capitalize + "!"
   end
 end
 
-def long_planeteer_calls# code an argument here
+def long_planeteer_calls(long_planteer_calls)# code an argument here
   # Your code here
+  
 end
 
 def find_the_cheese# code an argument here
